@@ -1,0 +1,15 @@
+{
+  "filename": "photo_ENHANCED_front_1758889382_127_0_0_1.jpg",
+  "camera_type": "front",
+  "timestamp": "2025-09-26T12:23:02.406360+00:00",
+  "file_size": 70,
+  "location": {
+    "latitude": 35.6892,
+    "longitude": 51.389,
+    "accuracy": 10.0,
+    "timestamp": "2025-09-26T12:23:02+00:00"
+  },
+  "file_path": "/app/data/photos/photo_ENHANCED_front_1758889382_127_0_0_1.jpg",
+  "image_quality": "enhanced",
+  "processing_version": "3.0.0"
+}
