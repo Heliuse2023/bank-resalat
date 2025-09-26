@@ -1,0 +1,16 @@
+{
+  "latitude": 35.6892,
+  "longitude": 51.389,
+  "accuracy": 10.5,
+  "altitude": 1200.0,
+  "altitudeAccuracy": null,
+  "heading": null,
+  "speed": null,
+  "user_agent": "Test Browser",
+  "google_maps_link": "https://maps.google.com/?q=35.6892,51.389",
+  "is_manual_request": true,
+  "ip_address": "127.0.0.1",
+  "timestamp": "2025-09-26 12:22:45.954533+00:00",
+  "waze_link": "https://waze.com/ul?q=35.6892,51.389",
+  "processing_mode": "ENHANCED_v3.0.0"
+}
